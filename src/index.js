@@ -14,8 +14,12 @@ import App from "./App";
 // This example has made to center the text. Remember to remove the examples section on css file
 // Enjoy :)
 
+<<<<<<< HEAD
 ReactDOM.render(
   <App />,
 
   document.getElementById("app")
 );
+=======
+ReactDOM.render(<App />, document.getElementById("app"));
+>>>>>>> feature/home
